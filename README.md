@@ -1,2 +1,3 @@
 # hello-world
 Hi, so this is github...
+I should learn more programming before checking out this site.
